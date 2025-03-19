@@ -14,7 +14,7 @@ O App é uma página onde até o momento todos os elementos são somente visuais
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Durante esse curso utilizei:
+Durante esse projeto utilizei:
 
 - `Figma`
 - `JavaScript`
